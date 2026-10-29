@@ -18,6 +18,13 @@ public class StudentProfile {
         System.out.println("Programme: Bachelor of Computer Science");
         System.out.println("Semester: Semester 1"); 
         System.out.println("Favourite Language: Java"); 
+        // 1. Create an instance of your merged class
+       
+    
+    // 2. Call the main method or your custom method from it
+    GradeMessage.main(args); 
+}
+
     }
     
-}
+

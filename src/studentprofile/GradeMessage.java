@@ -1,4 +1,4 @@
-
+package studentprofile;
 /**
  *
  * @author Mazuki Anuar
